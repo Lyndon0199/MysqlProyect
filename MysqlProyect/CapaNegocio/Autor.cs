@@ -74,7 +74,6 @@ namespace MysqlProyect.CapaNegocio
             DataTable tabla = new DataTable();
             adapter.Fill(tabla);
             return tabla;
-            //By Leo
         }
     }
 }
